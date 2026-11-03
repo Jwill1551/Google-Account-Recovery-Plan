@@ -37,11 +37,6 @@ This toolkit covers the whole incident: getting back in, removing what the attac
 
 It also covers **Google Workspace** accounts, which need an admin-side review in addition to the user steps.
 
-## Screenshots
-
-<!-- Add a screenshot of the quick guide PDF and a section of the runbook -->
-![Quick guide preview](screenshots/quick-guide.png)
-
 ## Skills demonstrated
 
 Incident response · Google Account & Workspace security · Phishing analysis · Identity theft prevention · Password manager, 2SV and passkey setup · End-user training · Technical writing for technical and non-technical readers
